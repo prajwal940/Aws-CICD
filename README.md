@@ -1,2 +1,5 @@
-# Aws-CICD
-Performing the CICD With the help Of AWS Services and Deployment on Open Source tool Such as Docker and K8s.
+# AWS CI (Continuous integration)
+
+Video: 
+
+![image](https://github.com/epic-croswords/simple-python-app/assets/138249606/e269c930-95d0-410f-be85-1445aa774843)
