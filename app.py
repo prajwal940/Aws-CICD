@@ -9,7 +9,7 @@ def greet_user():
     email = request.args.get('email')
 
     if name and email:
-        greeting = f"Hello, {name}! Your email is {email}."
+        greeting = f"Hello, {name}! Your email is here {email}."
     else:
         greeting = "Please provide both name and email parameters."
 
